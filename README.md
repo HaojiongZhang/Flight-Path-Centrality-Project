@@ -1,4 +1,4 @@
-# hz49-junjieg2-youfuq2-cyin9
+# Flight Path & Centrality Project
 Final project for hz49-junjieg2-youfuq2-cyin9
 
 # Code Base
